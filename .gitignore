@@ -63,3 +63,7 @@ target/
 
 # caffe
 *.caffemodel
+
+# obsolete folders
+data/
+results/
