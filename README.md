@@ -1,5 +1,5 @@
 # FCN
-Semantic segementation with FCN
+Semantic segementation with FCN on Cityscapes & Pascal VOC.
 
 Original FCN architecture by Jonathan Long, Evan Shelhame & Trevor Darrell
 
